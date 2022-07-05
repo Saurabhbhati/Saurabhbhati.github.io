@@ -44,7 +44,6 @@
     - title: Unsupervised Speech Segmentation 
       items: 
         - extraction of phone- and word-like boundaries from unlabeled data
-        - Description 2.
     - title: Self-supervised learning
       items:
         - Self-supervised learn represetnations by solving an auxillary task
