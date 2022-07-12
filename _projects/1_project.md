@@ -1,11 +1,16 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: Segmental Contrastive Predictive Coding for Unsupervised Word
+Segmentation
+img: assets/img/SCPC.png
 importance: 1
 category: work
 ---
+
+<object data="../assets/pdf/SCPC_fig.pdf" width="1000" height="1000" type='application/pdf'>
+</object>
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
