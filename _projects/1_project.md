@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Segmental Contrastive Predictive Coding for Unsupervised Word Segmentation
+title: Segmental Contrastive Predictive Coding for Unsupervised Word Segmentation
+description: 
 img: assets/img/SCPC.png
 importance: 1
 category: work
